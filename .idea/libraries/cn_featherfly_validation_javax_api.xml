@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="cn.featherfly.validation.javax.api" type="repository">
+    <properties maven-id="cn.featherfly.validation:javax.validation-api:0.1.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/featherfly/validation/javax.validation-api/0.1.0/javax.validation-api-0.1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/cn/featherfly/validation/validation-api/0.1.0/validation-api-0.1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
